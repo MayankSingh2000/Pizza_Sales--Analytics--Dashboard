@@ -20,4 +20,7 @@ The goal of this dashboard was to analyze and derive insights on the sales perfo
 6. Top 5 sellers by Total quantity, Revenue and Total Orders: Using Bar charts
 7. Bottom 5 sellers by Total Quantity, Revenue, Total Orders: Using Bar charts
 
+# Conclusion
+These SQL queries provide a comprehensive analysis of pizza sales data, enabling you to gain insights into various aspects of your business, such as revenue generation, order patterns, popular pizza choices, and sales trends. By leveraging these queries, you can make data-driven decisions to optimize your operations and improve customer satisfaction.
+
 # I utilized SSMS for querying and PowerBI for visualization.
